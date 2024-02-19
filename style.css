@@ -1,0 +1,25 @@
+@font-face {
+    font-family:Kode;
+    src: url(fonts/KodeMono-VariableFont_wght.ttf);
+}
+#button{
+    font-family:Kode;
+    border-color:rgb(187, 129, 241);
+    margin-left: 10px;
+}
+h1{
+    border-style: solid;
+    color: rgb(183, 143, 219);
+    border-width: 2px;
+    border-color: turquoise;
+    border-radius: 10px;
+    text-align: center;
+    background-color: rgb(61, 60, 60);
+}
+    body{
+        background-color: rgb(165, 106, 29);
+    }
+    .image1{
+        margin-left: 100px;
+        size: 25px;
+    }

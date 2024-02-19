@@ -1,0 +1,33 @@
+
+  @font-face {
+    font-family:Kode;
+    src: url(fonts/KodeMono-VariableFont_wght.ttf);
+}
+@font-face {
+  font-family: Protest;
+  src: url(ProtestRevolution-Regular.ttf);
+}
+.scbutton{
+    font-family:Kode;
+    border-color:rgb(187, 129, 241); 
+    background-color: #FFFC00;
+    color: #000000;
+    border: solid;
+    border-radius: 55px;
+    text-align: center;
+    margin-left: 700px;
+    
+}
+.wabutton{
+  font-family: Protest;
+  border-color:rgb(187, 129, 241); 
+    background-color: #1c6b27;
+    color: #000000;
+    border: solid;
+    border-radius: 55px;
+    text-align: center;
+    margin-left: 700px
+}
+body{
+  background-color: rgb(165, 106, 29);
+}
